@@ -1,0 +1,8 @@
+C:\Users\Albin\AppData\Local\Temporary Projects\StudentClassAH\bin\Debug\StudentClassAH.exe
+C:\Users\Albin\AppData\Local\Temporary Projects\StudentClassAH\bin\Debug\StudentClassAH.pdb
+C:\Users\Albin\AppData\Local\Temporary Projects\StudentClassAH\obj\x86\Debug\StudentClassAH.exe
+C:\Users\Albin\AppData\Local\Temporary Projects\StudentClassAH\obj\x86\Debug\StudentClassAH.pdb
+C:\Users\Albin\Desktop\StudentClassAH\StudentClassAH\obj\x86\Debug\StudentClassAH.exe
+C:\Users\Albin\Desktop\StudentClassAH\StudentClassAH\obj\x86\Debug\StudentClassAH.pdb
+C:\Users\Albin\Desktop\StudentClassAH\StudentClassAH\bin\Debug\StudentClassAH.exe
+C:\Users\Albin\Desktop\StudentClassAH\StudentClassAH\bin\Debug\StudentClassAH.pdb
